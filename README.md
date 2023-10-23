@@ -414,7 +414,7 @@ Person.prototype.getFullName = function() {
 
 ---
 
-###### 12. What's the output?
+###### 12. What's the output? *\*IMP\**
 
 ```javascript
 function Person(firstName, lastName) {
@@ -469,7 +469,7 @@ During the **capturing** phase, the event goes through the ancestor elements dow
 
 ---
 
-###### 14. All object have prototypes.
+###### 14. All object have prototypes. *\*IMP\**
 
 - A: true
 - B: false
@@ -551,7 +551,7 @@ This returns `0 2 2`.
 
 ---
 
-###### 17. What's the output?
+###### 17. What's the output? *\*IMP\**
 
 ```javascript
 function getPersonInfo(one, two, three) {
@@ -582,7 +582,7 @@ If you use tagged template literals, the value of the first argument is always a
 
 ---
 
-###### 18. What's the output?
+###### 18. What's the output? *\*IMP\**
 
 ```javascript
 function checkAge(data) {
